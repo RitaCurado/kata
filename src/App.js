@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Page Title</title>
-    </head>
-    
-    <body style="background-image: url('./connections.jpg');">
-        <h1>Bookmarks</h1>
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div>
+      <h1>Bookmarks</h1>
         <ul>
             <li>My Links
                 <ul>
@@ -15,5 +15,8 @@
                 </ul>
             </li>
         </ul>
-    </body>
-</html>
+    </div>
+  );
+}
+
+export default App;

@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/kata/static/css/main.81e19e49.chunk.css",
-    "main.js": "/kata/static/js/main.e4eeb807.chunk.js",
-    "main.js.map": "/kata/static/js/main.e4eeb807.chunk.js.map",
+    "main.js": "/kata/static/js/main.66efdfee.chunk.js",
+    "main.js.map": "/kata/static/js/main.66efdfee.chunk.js.map",
     "runtime-main.js": "/kata/static/js/runtime-main.0e78f7af.js",
     "runtime-main.js.map": "/kata/static/js/runtime-main.0e78f7af.js.map",
     "static/js/2.69a92978.chunk.js": "/kata/static/js/2.69a92978.chunk.js",
     "static/js/2.69a92978.chunk.js.map": "/kata/static/js/2.69a92978.chunk.js.map",
     "index.html": "/kata/index.html",
-    "precache-manifest.0ab7f9f66426f68c5a91664c8f1898bc.js": "/kata/precache-manifest.0ab7f9f66426f68c5a91664c8f1898bc.js",
+    "precache-manifest.ff9a1a0292e3c629f450abf44f0a2601.js": "/kata/precache-manifest.ff9a1a0292e3c629f450abf44f0a2601.js",
     "service-worker.js": "/kata/service-worker.js",
     "static/css/main.81e19e49.chunk.css.map": "/kata/static/css/main.81e19e49.chunk.css.map",
     "static/js/2.69a92978.chunk.js.LICENSE.txt": "/kata/static/js/2.69a92978.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/kata/static/media/connections.c74fcf56.jpg",
-    "static/media/logo.svg": "/kata/static/media/logo.5d5d9eef.svg"
+    "static/media/index.css": "/kata/static/media/connections.c74fcf56.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0e78f7af.js",
     "static/js/2.69a92978.chunk.js",
     "static/css/main.81e19e49.chunk.css",
-    "static/js/main.e4eeb807.chunk.js"
+    "static/js/main.66efdfee.chunk.js"
   ]
 }

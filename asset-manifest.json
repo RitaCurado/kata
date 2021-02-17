@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/kata/static/css/main.4921b545.chunk.css",
-    "main.js": "/kata/static/js/main.cf4cbbf9.chunk.js",
-    "main.js.map": "/kata/static/js/main.cf4cbbf9.chunk.js.map",
+    "main.css": "/kata/static/css/main.81e19e49.chunk.css",
+    "main.js": "/kata/static/js/main.e4eeb807.chunk.js",
+    "main.js.map": "/kata/static/js/main.e4eeb807.chunk.js.map",
     "runtime-main.js": "/kata/static/js/runtime-main.0e78f7af.js",
     "runtime-main.js.map": "/kata/static/js/runtime-main.0e78f7af.js.map",
     "static/js/2.69a92978.chunk.js": "/kata/static/js/2.69a92978.chunk.js",
     "static/js/2.69a92978.chunk.js.map": "/kata/static/js/2.69a92978.chunk.js.map",
     "index.html": "/kata/index.html",
-    "precache-manifest.3cb3d6685710a812c85f93c6312c30c4.js": "/kata/precache-manifest.3cb3d6685710a812c85f93c6312c30c4.js",
+    "precache-manifest.0ab7f9f66426f68c5a91664c8f1898bc.js": "/kata/precache-manifest.0ab7f9f66426f68c5a91664c8f1898bc.js",
     "service-worker.js": "/kata/service-worker.js",
-    "static/css/main.4921b545.chunk.css.map": "/kata/static/css/main.4921b545.chunk.css.map",
+    "static/css/main.81e19e49.chunk.css.map": "/kata/static/css/main.81e19e49.chunk.css.map",
     "static/js/2.69a92978.chunk.js.LICENSE.txt": "/kata/static/js/2.69a92978.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kata/static/media/connections.c74fcf56.jpg",
     "static/media/logo.svg": "/kata/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0e78f7af.js",
     "static/js/2.69a92978.chunk.js",
-    "static/css/main.4921b545.chunk.css",
-    "static/js/main.cf4cbbf9.chunk.js"
+    "static/css/main.81e19e49.chunk.css",
+    "static/js/main.e4eeb807.chunk.js"
   ]
 }

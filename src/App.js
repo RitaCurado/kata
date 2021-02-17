@@ -15,6 +15,16 @@ function App() {
                 </ul>
             </li>
         </ul>
+        <h1>UC Test in iframes</h1>
+        <iframe
+            id="s8dd3b9d025e401361d1d7054d2ab776f"
+            src="https://app.usercentrics.eu/browser-ui/preview/index.html?settingsId=I_VOBxm_v"
+            frameborder="0"
+            scrolling="no"
+            allowfullscreen="true"
+            allow="autoplay; fullscreen"
+            style={{ minWidth: '100%', width: '100px', height: '548px', margin: '0px', padding: '0px', border: '0px', display: 'block' }}>
+        </iframe>
     </div>
   );
 }
